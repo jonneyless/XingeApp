@@ -1,0 +1,17 @@
+{
+  "name": "liasica/XingeApp",
+  "description": "腾讯信鸽php sdk",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "liasica",
+      "email": "magicrolan@qq.com"
+    }
+  ],
+  "type": "sdk",
+  "autoload": {
+    "psr-4": {
+      "liasica\\XingeApp\\": ""
+    }
+  }
+}
